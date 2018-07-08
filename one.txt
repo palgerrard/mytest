@@ -1,8 +1,7 @@
 this is on.txt , haha
 
 i'm add on branch dev ...
-
-
 i'm add on branch bugfixed ...
-
 i'm add on branch act ...
+
+conflict fixed !
